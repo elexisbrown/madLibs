@@ -1,6 +1,26 @@
-@font-face {
-    font-family: 'j._airplane_swashregular';
-    src: url('j-airplane-swash-font-webfont.woff2') format('woff2'),
-         url('j-airplane-swash-font-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+
+    h1 {
+     font-family: 'Fredoka One', cursive;
+     color: #35154d;
+    }
+  
+    .w3-container {
+         width: 45%;
+         background-color:#35154d;
+         margin: 1px;
+         padding: 20px;
+         align-items: center;
+         margin-top: 20%;
+         margin-left: 25%;
+         border-radius: 1.5%;
+         
+    }
+    body {
+     background-image: url(LSt8JcvN_4x.png);
+     background-repeat: no-repeat;
+     background-size: 1600px
+ }
+     .paragraph {font-weight: 900;
+          color: #a71755;
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
